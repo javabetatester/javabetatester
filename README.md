@@ -1,1 +1,1 @@
-[synthwave]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave
+[synthwave]: https://github-readme-stats.vercel.app/api?username=javabetatester&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave
