@@ -1,6 +1,4 @@
-- Me chamo Bernardo, sou um aspirante a DEV Java e também autoditata.
-- Dentre as linguagens que mais gostei, Java disparou em primeira, por ser a mais difícil e ser um desafio.
-- Vou deixar aqui todo dia meus commits e evoluções que pretendo ter, aceito dicas, caso eu possa lhe ajudar em algo não hesite em me chamar.
+- JAVA
 - discord: gengar.lol
 
 <div style="display: inline_block"><br>
