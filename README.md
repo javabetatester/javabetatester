@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-bernardokunz@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardokunz@gmail.com)](mailto:bernardokunz@gmail.com)
 
 
-## My name is Bernardo Kunz
+##
 (Java | Spring Boot | AWS | C# | TS ) 🚀
 - 👩‍💻 Engenheiro de Software
 - 🎓 Bacharelado em Engenharia de Software em andamento
