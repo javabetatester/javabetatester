@@ -10,7 +10,8 @@
 ##
 (Java | Spring Boot | AWS | C# | TS ) 🚀
 - 👩‍💻 Engenheiro de Software
-- 🎓 Bacharelado em Engenharia de Software em andamento
+- 🎓 Bacharelado em Engenharia de Software
+- 🎓 Pós em Arquitetura de Software em andamento.
 - 🌐 Apaixonado por desenvolvimento WEB
 - 💡 Gosto de desafios e tasks de difícil implemetanção
 
