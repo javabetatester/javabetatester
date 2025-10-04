@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Junior Software Engineer with 9 years of Java development experience, transitioning from game development to enterprise software. Passionate about performance optimization, scalable architectures, and low-level system design.
+Software Engineer with 9 years of Java development experience, transitioning from game development to enterprise software. Passionate about performance optimization, scalable architectures, and low-level system design.
 
 🎓 **Education**
 - Bachelor's Degree in Software Engineering
