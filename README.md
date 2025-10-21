@@ -10,19 +10,19 @@
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 Software Engineer with 9 years of Java development experience, transitioning from game development to enterprise software. Passionate about performance optimization, scalable architectures, and low-level system design.
 
-🎓 **Education**
+ **Education**
 - Bachelor's Degree in Software Engineering
 - Postgraduate in Software Architecture *(in progress)*
 
-💡 **Technical Focus:** Horizontal scalability, bit-level optimizations, concurrent systems, and distributed architectures.
+ **Technical Focus:** Horizontal scalability, bit-level optimizations, concurrent systems, and distributed architectures.
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### **Languages**
 **Java** (9 years) • **C#** • **Python** • **Go** 
@@ -50,7 +50,7 @@ Software Engineer with 9 years of Java development experience, transitioning fro
 
 ---
 
-## 🎯 Technical Interests
+## Technical Interests
 
 - Performance Engineering & JVM Optimization
 - Horizontal Scalability & Distributed Systems
@@ -62,7 +62,7 @@ Software Engineer with 9 years of Java development experience, transitioning fro
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
 **Game Development Background (9 years)**
 - Developed high-performance Minecraft plugins handling hundreds of concurrent players
@@ -79,7 +79,7 @@ Software Engineer with 9 years of Java development experience, transitioning fro
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=javabetatester&show_icons=true&count_private=true&hide_border=true&title_color=8f00ff&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" />
