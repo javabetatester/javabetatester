@@ -37,7 +37,7 @@ Software Engineer with 9 years of Java development experience, transitioning fro
 **.NET Core** • **ASP.NET Core** • **Entity Framework Core** • **Polly** • **Dapper**
 
 ### **Go Ecosystem** *(Currently Learning)*
-**Gin** • **Echo** • **GORM** • **Goroutines & Channels**
+**Gin** • **Echo** • **Testify** • **GORM** • **Goroutines & Channels**
 
 ### **Databases**
 **PostgreSQL** • **MySQL** • **MongoDB** • **Redis** • **DynamoDB**
