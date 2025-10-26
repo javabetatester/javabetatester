@@ -4,9 +4,9 @@
 
 <div align="center">
   
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bernardokunz)
-[![Website](https://img.shields.io/badge/-Portfolio-8F00FF?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://github.com/javabetatester?tab=repositories)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bernardokunz@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-00AEFF?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bernardokunz)
+[![Website](https://img.shields.io/badge/-Portfolio-00AEFF?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://github.com/javabetatester?tab=repositories)
+[![Email](https://img.shields.io/badge/-Email-00AEFF?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bernardokunz@gmail.com)
 
 </div>
 
