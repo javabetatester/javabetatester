@@ -82,7 +82,6 @@ Software Engineer with 9 years of Java development experience, transitioning fro
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=javabetatester&show_icons=true&count_private=true&hide_border=true&title_color=8f00ff&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javabetatester&layout=compact&hide_border=true&title_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
