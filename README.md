@@ -25,7 +25,7 @@ Software Engineer with 9 years of Java development experience, transitioning fro
 ## Technical Stack
 
 ### **Languages**
-**Java** (9 years) • **C#** • **Python** • **Go** 
+**Java** (9 years) • **C#** • **Rust** • **Go** • **Rails** 
 
 ### **Java Ecosystem**
 **Spring Boot** • **Spring Cloud** • **Spring Data JPA** • **Hibernate** • **Maven** • **Gradle** • **JUnit** • **Mockito** • **Lombok**
