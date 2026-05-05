@@ -72,7 +72,7 @@ Software Engineer with 9 years of Java development experience, transitioning fro
 - Managed distributed server networks and load balancing
 
 **Enterprise Software (Current)**
-- Building scalable backend services with Spring Boot
+- Building scalable backend services with Golang
 - Working with microservices architecture and cloud infrastructure
 - Implementing resilience patterns and fault-tolerant systems
 - Collaborating in agile teams and contributing to production systems
