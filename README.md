@@ -10,6 +10,20 @@
 
 </div>
 
+Building [Versatile](https://versatile.sh). Creator of **vxc**, **vxlint** and **bench-engine**.
+
+I build high-performance Go developer tooling and AI engineering infrastructure, with statistical proof behind every speed claim.
+
+## 🚀 What I work on
+
+- **[vxc](https://vxc.versatile.sh)** · A high-performance Go toolchain: linter, formatter, test runner and parser, in milliseconds. *(open source soon)*
+  - **vxlint** · Go linter with the same findings as golangci-lint on the same rules, **14–28x faster warm** (95% confidence intervals) and **up to ~1,960x faster cold**.
+  - **vxfmt**, **vxtest** and **vxc_parser** · formatter, affected-test runner and an own Go parser, in progress.
+- **bench-engine** · Language-agnostic benchmarking with statistics built in: confidence intervals, Mann–Whitney with Holm correction, change-point detection and bisect. *(open source soon)*
+- **[Versatile](https://versatile.sh)** · Developer tools, AI agent engines and products: [live.versatile.sh](https://live.versatile.sh), [adaptable.chat](https://adaptable.chat) and the engines behind them.
+
+---
+
 ## About Me
 
 Senior Software Engineer working on backend, distributed systems and security since 2016. Experience with large-scale gaming platforms (40k+ concurrent players, p99 < 50 ms), mission-critical financial systems on Kafka, and AI engineering tooling (agent orchestration, LLM-as-judge evals, guardrails). Focused on high performance, low latency and developer productivity, with **Go** as my main stack and a strong **Java** background.
