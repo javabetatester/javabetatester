@@ -14,7 +14,7 @@ Building [Versatile](https://versatile.sh). Creator of **vxc**, **vxlint** and *
 
 I build high-performance Go developer tooling and AI engineering infrastructure, with statistical proof behind every speed claim.
 
-## 🚀 What I work on
+## What I work on
 
 - **[vxc](https://vxc.versatile.sh)** · A high-performance Go toolchain: linter, formatter, test runner and parser, in milliseconds. *(open source soon)*
   - **vxlint** · Go linter with the same findings as golangci-lint on the same rules, **14–28x faster warm** (95% confidence intervals) and **up to ~1,960x faster cold**.
