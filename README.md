@@ -10,38 +10,54 @@
 
 </div>
 
-Senior Software Engineer from Brazil, building [**Versatile**](https://versatile.sh).
-I focus on **Developer Experience**, **Performance Engineering**, **Compilers & Static Analysis** and **AI Engineering**, with statistical proof behind every speed claim.
+<p align="center">
+  <b>Developer Experience · Performance Engineering · Compilers · AI Engineering</b><br>
+  <sub>Building <a href="https://versatile.sh">versatile.sh</a>. Every speed claim ships with its confidence interval.</sub>
+</p>
 
-### ⚡ vxc
+## vxc
 
-[**vxc**](https://vxc.versatile.sh) (*versatile experience compiler*) is a suite of high-performance Go tools in the spirit of oxc, each tool its own binary. [Repository](https://github.com/versatile-sh/vxc) *(open source soon)*
+> **A Go toolchain that answers in milliseconds.** Linter, formatter, test runner and parser, in the spirit of oxc.
 
-| Tool | What it does |
-| --- | --- |
-| **vxlint** | Go linter with the same findings as golangci-lint on the same rules, **14–28x faster warm** and **up to ~1,960x faster cold** (95% CIs). Syntax rules run per file as soon as it is parsed; typed `go/analysis` passes (go vet, staticcheck SA/S/ST/QF) run per package against a persistent cache. |
-| **vxfmt** | gofmt, gofumpt, goimports and gci in one pass, byte-identical to each. |
-| **vxtest** | Runs `go test` only on the packages your change can affect, with the reason for each. |
-| **vxbench** | Benchmarks, probes, mutation recall and conformance against the tools vxc replaces. |
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="220"><br><b><code>14–28x</code></b><br><sub>faster than golangci-lint, warm</sub><br><br></td>
+    <td align="center" width="220"><br><b><code>~1,960x</code></b><br><sub>faster on a cold cache</sub><br><br></td>
+    <td align="center" width="220"><br><b><code>same</code></b><br><sub>findings, same rules, 95% CIs</sub><br><br></td>
+  </tr>
+</table>
+</div>
 
-### 🔨 Versatile
+- `vxlint` · syntax rules per file as it is parsed, typed `go/analysis` per package over a persistent cache
+- `vxfmt` · gofmt, gofumpt, goimports and gci in one pass, byte-identical to each
+- `vxtest` · runs only the tests your change can affect, and says why
+- `vxbench` · benchmarks, mutation recall and conformance against the tools vxc replaces
 
-| Project | What it does |
-| --- | --- |
-| **bench-engine** | Language-agnostic benchmarking with statistics built in: confidence intervals, Mann–Whitney with Holm correction, change-point detection and bisect. *(open source soon)* |
-| [**go-lint**](https://github.com/versatile-sh/go-lint) | One lint kit for Go repositories: generated golangci-lint config, drift check and custom `go/analysis` analyzers. |
-| [**semgrep-rules**](https://github.com/versatile-sh/semgrep-rules) | Shared Semgrep rules for Versatile repositories, pinned by tag. |
-| [**connector-engine**](https://github.com/versatile-sh/connector-engine) | Connector store and MCP gateway for agents: per-agent, per-function grants, approval on use, pinned definitions. |
-| [**agents-vault**](https://github.com/versatile-sh/agents-vault) | Account ledger for coding-agent harnesses: isolated Claude Code, Codex and Grok accounts, API keys and live limits. |
-| [**live-platform**](https://github.com/versatile-sh/live-platform) | Screen sharing rooms behind [live.versatile.sh](https://live.versatile.sh): Go server, React client. |
-| [**homebrew-tap**](https://github.com/versatile-sh/homebrew-tap) | Homebrew formulae for Versatile tools. |
+[vxc.versatile.sh](https://vxc.versatile.sh) · [source](https://github.com/versatile-sh/vxc) <sub>(open source soon)</sub>
 
-Also building [**adaptable.chat**](https://adaptable.chat) and the agent engines behind it.
+## Open source at Versatile
 
-### 🧠 AI engineering
+**Go tooling**
+- [go-lint](https://github.com/versatile-sh/go-lint) · one lint kit for Go repos, with custom analyzers
+- [semgrep-rules](https://github.com/versatile-sh/semgrep-rules) · shared rules, pinned by tag
+- [homebrew-tap](https://github.com/versatile-sh/homebrew-tap) · `brew install` for Versatile tools
+- **bench-engine** · benchmarking with CIs, Mann–Whitney and change-point detection <sub>(soon)</sub>
 
-At **MeuControle.AI** I build a conversational AI orchestrator in Go on Claude: 30+ domain adapters as tools, multi-provider routing with fallback and per-attempt metering, output-edge guardrails, and an evals harness (paired baselines, McNemar, Wilson intervals, LLM-as-judge) running on every push.
+**Agents**
+- [connector-engine](https://github.com/versatile-sh/connector-engine) · MCP gateway with per-function grants and approval on use
+- [agents-vault](https://github.com/versatile-sh/agents-vault) · isolated accounts and live limits for coding-agent harnesses
 
-### 📫 Contact
+**Products**
+- [live.versatile.sh](https://live.versatile.sh) · screen sharing rooms ([source](https://github.com/versatile-sh/live-platform))
+- [adaptable.chat](https://adaptable.chat) · one chat for your agents
 
-[LinkedIn](https://www.linkedin.com/in/bernardokunz) · [bkunz.dev](https://bkunz.dev) · [Email](mailto:bernardokunz@gmail.com)
+## AI engineering
+
+Day job at **MeuControle.AI**: a Go orchestrator on Claude with 30+ domain tools, multi-provider routing with fallback, output guardrails, and evals (paired baselines, McNemar, LLM-as-judge) gating every push.
+
+---
+
+<p align="center">
+  <a href="https://bkunz.dev">bkunz.dev</a> · <a href="https://www.linkedin.com/in/bernardokunz">LinkedIn</a> · <a href="mailto:bernardokunz@gmail.com">Email</a>
+</p>
