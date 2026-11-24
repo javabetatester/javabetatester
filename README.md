@@ -19,7 +19,7 @@
 
 **A Go toolchain built for the inner loop:** lint, format and test fast enough to run on every save. Same rules and same findings as the tools it replaces, in the spirit of oxc.
 
-| | |
+| Binary | Role |
 | --- | --- |
 | **vxlint** | Linter. Syntax rules run as each file is parsed; typed `go/analysis` passes run per package over a persistent cache. |
 | **vxfmt** | gofmt, gofumpt, goimports and gci in a single pass, byte-identical output. |
@@ -30,7 +30,7 @@
 
 ## Open source at Versatile
 
-| | |
+| Repository | Purpose |
 | --- | --- |
 | [**go-lint**](https://github.com/versatile-sh/go-lint) | Lint kit for Go repos: generated golangci-lint config, drift check, custom analyzers. |
 | [**connector-engine**](https://github.com/versatile-sh/connector-engine) | MCP gateway for agents with per-function grants and approval on use. |
