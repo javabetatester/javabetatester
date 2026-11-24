@@ -22,9 +22,9 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="220"><br><b><code>14–28x</code></b><br><sub>faster than golangci-lint, warm</sub><br><br></td>
-    <td align="center" width="220"><br><b><code>~1,960x</code></b><br><sub>faster on a cold cache</sub><br><br></td>
-    <td align="center" width="220"><br><b><code>same</code></b><br><sub>findings, same rules, 95% CIs</sub><br><br></td>
+    <td align="center" width="220"><h3>14–28x</h3><sub>faster than golangci-lint, warm</sub></td>
+    <td align="center" width="220"><h3>~1,960x</h3><sub>faster on a cold cache</sub></td>
+    <td align="center" width="220"><h3>same</h3><sub>findings, same rules, 95% CIs</sub></td>
   </tr>
 </table>
 </div>
