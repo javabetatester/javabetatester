@@ -43,7 +43,7 @@ Also building [**adaptable.chat**](https://adaptable.chat), one chat for all you
 
 ## AI engineering
 
-At **MeuControle.AI** I build a Go orchestrator on Claude: domain adapters exposed as tools, multi-provider routing with fallback, output guardrails, and an evals harness that gates every push.
+At **MeuControle.AI** I build a Go orchestrator: domain adapters exposed as tools, multi-provider routing with fallback, output guardrails, and an evals harness that gates every push.
 
 ---
 
