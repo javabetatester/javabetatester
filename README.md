@@ -15,7 +15,7 @@ I focus on **Developer Experience**, **Performance Engineering**, **Compilers & 
 
 ### ⚡ vxc
 
-[**vxc**](https://vxc.versatile.sh) (*versatile experience compiler*) is a suite of high-performance Go tools in the spirit of oxc, each tool its own binary. *(open source soon)*
+[**vxc**](https://vxc.versatile.sh) (*versatile experience compiler*) is a suite of high-performance Go tools in the spirit of oxc, each tool its own binary. [Repository](https://github.com/versatile-sh/vxc) *(open source soon)*
 
 | Tool | What it does |
 | --- | --- |
