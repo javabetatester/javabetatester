@@ -12,49 +12,38 @@
 
 <p align="center">
   <b>Developer Experience · Performance Engineering · Compilers · AI Engineering</b><br>
-  <sub>Building <a href="https://versatile.sh">versatile.sh</a>. Every speed claim ships with its confidence interval.</sub>
+  <sub>Founder of <a href="https://versatile.sh">versatile.sh</a>, where I build fast developer tools and the engines behind AI agents.</sub>
 </p>
 
 ## vxc
 
-> **A Go toolchain that answers in milliseconds.** Linter, formatter, test runner and parser, in the spirit of oxc.
+**A Go toolchain built for the inner loop:** lint, format and test fast enough to run on every save. Same rules and same findings as the tools it replaces, in the spirit of oxc.
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="220"><h3>14–28x</h3><sub>faster than golangci-lint, warm</sub></td>
-    <td align="center" width="220"><h3>~1,960x</h3><sub>faster on a cold cache</sub></td>
-    <td align="center" width="220"><h3>same</h3><sub>findings, same rules, 95% CIs</sub></td>
-  </tr>
-</table>
-</div>
-
-- `vxlint` · syntax rules per file as it is parsed, typed `go/analysis` per package over a persistent cache
-- `vxfmt` · gofmt, gofumpt, goimports and gci in one pass, byte-identical to each
-- `vxtest` · runs only the tests your change can affect, and says why
-- `vxbench` · benchmarks, mutation recall and conformance against the tools vxc replaces
+| | |
+| --- | --- |
+| **vxlint** | Linter. Syntax rules run as each file is parsed; typed `go/analysis` passes run per package over a persistent cache. |
+| **vxfmt** | gofmt, gofumpt, goimports and gci in a single pass, byte-identical output. |
+| **vxtest** | Runs only the tests your change can reach, and tells you why. |
+| **vxbench** | Benchmarks and conformance checks against the tools vxc replaces. |
 
 [vxc.versatile.sh](https://vxc.versatile.sh) · [source](https://github.com/versatile-sh/vxc) <sub>(open source soon)</sub>
 
 ## Open source at Versatile
 
-**Go tooling**
-- [go-lint](https://github.com/versatile-sh/go-lint) · one lint kit for Go repos, with custom analyzers
-- [semgrep-rules](https://github.com/versatile-sh/semgrep-rules) · shared rules, pinned by tag
-- [homebrew-tap](https://github.com/versatile-sh/homebrew-tap) · `brew install` for Versatile tools
-- **bench-engine** · benchmarking with CIs, Mann–Whitney and change-point detection <sub>(soon)</sub>
+| | |
+| --- | --- |
+| [**go-lint**](https://github.com/versatile-sh/go-lint) | Lint kit for Go repos: generated golangci-lint config, drift check, custom analyzers. |
+| [**connector-engine**](https://github.com/versatile-sh/connector-engine) | MCP gateway for agents with per-function grants and approval on use. |
+| [**agents-vault**](https://github.com/versatile-sh/agents-vault) | Isolated accounts, API keys and live limits for coding-agent harnesses. |
+| [**live-platform**](https://github.com/versatile-sh/live-platform) | Screen sharing rooms behind [live.versatile.sh](https://live.versatile.sh). |
+| [**semgrep-rules**](https://github.com/versatile-sh/semgrep-rules) | Shared Semgrep rules, pinned by tag. |
+| **bench-engine** | Benchmarking with statistics built in: confidence intervals and change-point detection. <sub>(soon)</sub> |
 
-**Agents**
-- [connector-engine](https://github.com/versatile-sh/connector-engine) · MCP gateway with per-function grants and approval on use
-- [agents-vault](https://github.com/versatile-sh/agents-vault) · isolated accounts and live limits for coding-agent harnesses
-
-**Products**
-- [live.versatile.sh](https://live.versatile.sh) · screen sharing rooms ([source](https://github.com/versatile-sh/live-platform))
-- [adaptable.chat](https://adaptable.chat) · one chat for your agents
+Also building [**adaptable.chat**](https://adaptable.chat), one chat for all your agents.
 
 ## AI engineering
 
-Day job at **MeuControle.AI**: a Go orchestrator on Claude with 30+ domain tools, multi-provider routing with fallback, output guardrails, and evals (paired baselines, McNemar, LLM-as-judge) gating every push.
+At **MeuControle.AI** I build a Go orchestrator on Claude: domain adapters exposed as tools, multi-provider routing with fallback, output guardrails, and an evals harness that gates every push.
 
 ---
 
