@@ -44,4 +44,4 @@ At **MeuControle.AI** I build a conversational AI orchestrator in Go on Claude: 
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/bernardokunz) · [bkunz.dev](https://github.com/javabetatester/bkunz.dev) · [Email](mailto:bernardokunz@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bernardokunz) · [bkunz.dev](https://bkunz.dev) · [Email](mailto:bernardokunz@gmail.com)
