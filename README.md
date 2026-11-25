@@ -28,19 +28,6 @@
 
 [vxc.versatile.sh](https://vxc.versatile.sh) · [source](https://github.com/versatile-sh/vxc) <sub>(open source soon)</sub>
 
-## Open source at Versatile
-
-| Repository | Purpose |
-| --- | --- |
-| [**go-lint**](https://github.com/versatile-sh/go-lint) | Lint kit for Go repos: generated golangci-lint config, drift check, custom analyzers. |
-| [**connector-engine**](https://github.com/versatile-sh/connector-engine) | MCP gateway for agents with per-function grants and approval on use. |
-| [**agents-vault**](https://github.com/versatile-sh/agents-vault) | Isolated accounts, API keys and live limits for coding-agent harnesses. |
-| [**live-platform**](https://github.com/versatile-sh/live-platform) | Screen sharing rooms behind [live.versatile.sh](https://live.versatile.sh). |
-| [**semgrep-rules**](https://github.com/versatile-sh/semgrep-rules) | Shared Semgrep rules, pinned by tag. |
-| **bench-engine** | Benchmarking with statistics built in: confidence intervals and change-point detection. <sub>(soon)</sub> |
-
-Also building [**adaptable.chat**](https://adaptable.chat), one chat for all your agents.
-
 ## AI engineering
 
 At **MeuControle.AI** I build a Go orchestrator: domain adapters exposed as tools, multi-provider routing with fallback, output guardrails, and an evals harness that gates every push.
